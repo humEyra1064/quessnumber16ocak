@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2d3436;
+    color: white;
+}
+
+.secret-number{
+    border: 4px solid white;
+    
+}
